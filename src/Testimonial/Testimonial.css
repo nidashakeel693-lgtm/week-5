@@ -19,12 +19,13 @@ margin-right: 60px;
 
  
 }
-.card1 p{
-  text-align: left;
+.box1 p{
+  font-size: 20px;
 
-
+  color: black;
+  margin-right: 100px;
+  font-weight: bold;
 }
-
 
 .card1::before {
   content: '';
@@ -32,10 +33,10 @@ margin-right: 60px;
   width: 15px;
   height: 15px;
   position: absolute;
-  border-left: 20px solid transparent;
+  border-left: 25px solid transparent;
    border-top: 20px solid transparent;
   border-right: 25px solid black;
-  left: 330px;
+  left: 290px;
 bottom: 545px;
 transform: rotate(50deg);
 
@@ -65,10 +66,24 @@ transform: rotate(50deg);
   margin-top: -300px;
   height: 30%;
 }
+.card3 p1{
+  text-align: left;
+  font-size: 30px;
+margin-bottom: 20px;
+font-weight: 15px;
+}
+
+
+.card3 p2{
+  text-align: left;
+  font-size: 20px;
+margin-bottom: 20px;
+color: grey;
+}
 .card3 p{
   text-align: left;
   font-size: 20px;
-
+margin-bottom: 20px;
 }
 .profile{
   display: flex;
@@ -90,11 +105,14 @@ transform: rotate(50deg);
   font-weight: bold;
   margin: 0;
   color: black;
+  margin-right: 100px;
 }
 
 .role{
   margin-top: -10px;
   color: black;
+    margin-right: 30px;
+    margin-top: 5px;
 }
 .card2{
 
@@ -106,6 +124,9 @@ transform: rotate(50deg);
    margin-left: -20px;
    margin-top: 30px;
    
+}
+.card2 p5{
+  color: black;
 }
 .container3{
   width: 100%;
@@ -182,4 +203,5 @@ transform: rotate(50deg);
 }
 .stars{
   margin-right: 270px;
+  margin-bottom: 10px;
 }

@@ -22,12 +22,12 @@ function Testimonial() {
               </div>
             </div>
             <p> Artem jones</p>
-            <p>Junior frontend developer</p>
+            <p4>Junior frontend developer</p4>
           </div>
         </div>
         <div className='container2'>
           <div className='card2'>
-            <p>Since starting my carrier in 2021, i have only followed one resourse roadmap.sh, it truly helped me go from 0 to having a job and changing the financial trajectory of my family</p>
+            <p5>Since starting my carrier in 2021, i have only followed one resourse roadmap.sh, it truly helped me go from 0 to having a job and changing the financial trajectory of my family</p5>
             <div className='profile'>
               <div className='left'>
                 <img src='WhatsApp Image 2026-05-06 at 11.30.00.jpeg'></img>
@@ -45,8 +45,8 @@ function Testimonial() {
         <div className='container3'>
           <div className='card3'>
             <div className='stars'>🌟🌟🌟🌟🌟</div>
-            <p>Jacki Mackle</p>
-            <p>Engineering Manager</p>
+            <p1>Jacki Mackle</p1>
+            <p2>Engineering Manager</p2>
             <p>I find myself recommending roadmap.sh to all the internees or junior developers.its a great way to skill up and grow in your carrier.</p>
           </div>
         </div>
