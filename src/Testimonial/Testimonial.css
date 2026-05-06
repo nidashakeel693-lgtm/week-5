@@ -26,7 +26,9 @@ margin-right: 60px;
   margin-right: 100px;
   font-weight: bold;
 }
-
+.box1 p4{
+  color: black;
+}
 .card1::before {
   content: '';
   display: block;
@@ -204,4 +206,10 @@ margin-bottom: 20px;
 .stars{
   margin-right: 270px;
   margin-bottom: 10px;
+}
+.card6 p{
+  color: black;
+}
+.bottom-profile h3{
+  color: black;
 }
