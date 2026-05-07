@@ -16,18 +16,19 @@
    margin-left: 40px;
    margin-top: 30px;
 margin-right: 60px;
-
+text-align: left;
  
 }
 .box1 p{
   font-size: 20px;
 
   color: black;
-  margin-right: 100px;
+  margin-left: 150px;
   font-weight: bold;
 }
 .box1 p4{
   color: black;
+  margin-left: 150px;
 }
 .card1::before {
   content: '';
@@ -107,13 +108,13 @@ margin-bottom: 20px;
   font-weight: bold;
   margin: 0;
   color: black;
-  margin-right: 100px;
+  margin-left: 80px;
 }
 
 .role{
   margin-top: -10px;
   color: black;
-    margin-right: 30px;
+    margin-left: 70px;
     margin-top: 5px;
 }
 .card2{
